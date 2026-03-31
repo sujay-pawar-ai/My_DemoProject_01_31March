@@ -1,0 +1,23 @@
+{
+  "name": "my_demoproject_01_31march",
+  "version": "1.0.0",
+  "description": "demo project",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujay-pawar-ai/My_DemoProject_01_31March.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sujay-pawar-ai/My_DemoProject_01_31March/issues"
+  },
+  "homepage": "https://github.com/sujay-pawar-ai/My_DemoProject_01_31March#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.5.0"
+  }
+}
